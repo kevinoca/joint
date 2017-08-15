@@ -1,4 +1,5 @@
-
+    <?php wp_footer(); ?>
+    
     <footer class="footer container-fluid">
         
         <div class="container">
@@ -65,6 +66,9 @@
         </div>
     
     </footer>
+    
+    <!--modals-->
+    <?php get_template_part('modals'); ?>
       
     </body>
     

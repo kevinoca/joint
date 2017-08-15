@@ -2,14 +2,16 @@
 
 // console.log(screen.height);
 
-var sh = screen.height - 120;
-var sw = screen.width;
-var hbc = false;
+// alert(screen.height)
+
 
 
     // $('.header').css('height',sh)
     $(document).ready(function(){
         
+        var sh = screen.height - 120;
+        var sw = screen.width;
+        var hbc = false;
         // click for menu
         $('.navbar-toggle').click(function(){
             
@@ -31,6 +33,16 @@ var hbc = false;
         
         
         $('.header').css("height",sh)
+        $('.triangulo-equilatero-bottom-left').css({
+            
+            "border-top":sw,
+            "border-right":sw,
+            "border-right-color":"#efefef",
+            "border-right-style":"solid"
+            
+        })
+        
+        
         
         var opt  = $('.option')
         
@@ -107,8 +119,8 @@ var hbc = false;
             
             $(window).scroll(function(){
             
-            var barra = $(window).scrollTop();
-            var pos = barra *0.01;
+                var barra = $(window).scrollTop();
+                var pos = barra *0.01;
             
             $('.cotiza').css({
                 
@@ -143,17 +155,17 @@ var hbc = false;
                 
             }
             
-            if(barra > 2100){
+            if(barra > 1900){
                 
                 $('.image img').css({
-                    'margin-top':'-50px',
+                    // 'margin-top':'-50px',
                     'opacity':'1'
                 })
                 
             }else{
                 
                 $('.image img').css({
-                    'margin-top':'50px',
+                    // 'margin-top':'50px',
                     'opacity':'0'
                 })
                 
