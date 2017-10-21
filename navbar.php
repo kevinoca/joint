@@ -18,9 +18,9 @@
         <ul class="nav navbar-nav text-uppercase text-center">
             <li><a href="<?php home_url(); ?>/produccion-grafica">Producción Gráfica</a></li>
             <li><a href="<?php home_url(); ?>/paginas-web">Páginas web</a></li>
-            <li><a href="<?php home_url(); ?>/aplicaciones-moviles">Aplicaciones Móviles</a></li>
+            <li><a href="#">Aplicaciones Móviles</a></li>
             <li><a href="<?php home_url(); ?>/diseno-grafico">Diseño Grafico</a></li>
-            <li><a href="/">Contacto</a></li>
+            <li><a href="#">Contacto</a></li>
         </ul>
         
     </div>

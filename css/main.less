@@ -1096,6 +1096,15 @@ a{
     
     .modal-body{
         
+        li>span{
+            margin-bottom: 10px;
+        }
+        
+        .cbx:checked ~ label:after {
+            left: 20px;
+            background: @morado;
+        }
+        
         .card{
             
             font-size:1em;
@@ -1159,7 +1168,7 @@ a{
                 height: 40px;
             }
             
-            button{
+            .submit{
                 
                 background: rebeccapurple;
                 border-radius: 50px;
@@ -1198,6 +1207,15 @@ a{
     }
     
     .modal-body{
+        
+        li>span{
+            margin-bottom: 10px;
+        }
+        
+        .cbx:checked ~ label:after {
+            left: 20px;
+            background: #5ec0b8;
+        }
         
         .card{
             
@@ -1262,7 +1280,7 @@ a{
                 height: 40px;
             }
             
-            button{
+            .submit{
                 
                 background: #4dcbc5;
                 border-radius: 50px;
@@ -1280,6 +1298,23 @@ a{
     
 }
 
+.web-modal{
+
+    button{
+        background:@morado !important;
+        text-transform: uppercase;
+        border-color:@morado;
+        padding:10px 0;
+        border-radius: 10px;
+        margin:10px 0;
+    }
+    button:hover{
+        
+        opacity: 0.9;
+        
+    }
+    
+}
 
 .lbl {
   position: relative;
@@ -1329,6 +1364,15 @@ a{
   left: 50%;
   transform: translate(-50%, -50%);
 }
+#diseno-popup{
+    .cbx:checked ~ label:after {
+            left: 20px;
+            background: #56b442;
+        }
+}
 
 
 @morado:#693ab8;
+.customize-support{
+    padding:0 !important;
+}

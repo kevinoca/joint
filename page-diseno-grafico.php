@@ -73,7 +73,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -85,7 +85,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -97,7 +97,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -109,7 +109,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -121,7 +121,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -133,7 +133,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -145,7 +145,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -157,7 +157,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 
@@ -169,7 +169,7 @@
                     
                     </div>
                 
-                    <button class="btn btn-name btn-clear btn-block btn-info">Seleccionado</button>
+                    <button class="btn btn-name btn-clear btn-block btn-info" data-toggle="modal" data-target="#diseno-popup">Seleccionado</button>
                     
                 </div>
                 

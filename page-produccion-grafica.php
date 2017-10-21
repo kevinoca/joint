@@ -52,7 +52,7 @@
 
                         <div class="boton">
                             
-                            <button class="btn btn-pedir-1">Pedir ahora</button>
+                            <button class="btn btn-pedir-1" data-toggle="modal" data-target="#promo-popup">Pedir ahora</button>
     
                         </div>
                         
@@ -64,7 +64,7 @@
                         
                         <div class="boton">
                             
-                            <button class="btn btn-pedir-2">Pedir ahora</button>
+                            <button class="btn btn-pedir-2" data-toggle="modal" data-target="#promo-popup">Pedir ahora</button>
     
                         </div>    
                         
@@ -78,7 +78,7 @@
                         
                         <div class="boton">
                             
-                            <button class="btn btn-pedir-3">Pedir ahora</button>
+                            <button class="btn btn-pedir-3" data-toggle="modal" data-target="#promo-popup">Pedir ahora</button>
     
                         </div>     
                         
@@ -90,7 +90,7 @@
                         
                         <div class="boton">
                             
-                            <button class="btn btn-pedir-4">Pedir ahora</button>
+                            <button class="btn btn-pedir-4" data-toggle="modal" data-target="#promo-popup">Pedir ahora</button>
     
                         </div>     
                         
@@ -104,7 +104,7 @@
                         
                         <div class="boton">
                             
-                            <button class="btn btn-pedir-5">Pedir ahora</button>
+                            <button class="btn btn-pedir-5" data-toggle="modal" data-target="#promo-popup">Pedir ahora</button>
     
                         </div>   
                         
@@ -116,7 +116,7 @@
                         
                         <div class="boton">
                             
-                            <button class="btn btn-pedir-6">Pedir ahora</button>
+                            <button class="btn btn-pedir-6" data-toggle="modal" data-target="#promo-popup">Pedir ahora</button>
     
                         </div>     
                         
