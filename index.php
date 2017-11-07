@@ -26,7 +26,7 @@
                     
                     <p>Soluciones Gráficas a tu alcance, <br>comienza hoy día!</p>
                      
-                    <button class="btn btn-clear">Empieza hoy día</button>
+                    <button class="btn btn-clear" data-toggle="modal" data-target="#contactModal">Empieza hoy día</button>
                     
                 </div>
                 
@@ -75,7 +75,7 @@
                         
                         <p>Impresiones en alta calidad <br> al mejor precio</p>
                         
-                        <button class="btn btn-joint">Precios y promociones</button>
+                        <button class="btn btn-joint" data-toggle="modal" data-target="#contactModal">Precios y promociones</button>
                         
                     </div>
                 
@@ -96,7 +96,7 @@
                         
                         <p>Impresiones en alta calidad <br> al mejor precio</p>
                         
-                        <button class="btn btn-joint">Precios y promociones</button>
+                        <button class="btn btn-joint" data-toggle="modal" data-target="#contactModal">Precios y promociones</button>
                         
                     </div>
                 
@@ -117,7 +117,7 @@
                         
                         <p>Impresiones en alta calidad <br> al mejor precio</p>
                         
-                        <button class="btn btn-joint">Precios y promociones</button>
+                        <button class="btn btn-joint" data-toggle="modal" data-target="#contactModal">Precios y promociones</button>
                     
                     </div>
                 
@@ -206,7 +206,7 @@
                             
                             <p>Impresiones de alta calidad y un acabado insuperable, tenemos envíos a toda chile al mejor precio</p><br>
                             
-                            <button class="btn btn-joint ">Precios y promociones</button>
+                            <button class="btn btn-joint" data-toggle="modal" data-target="#contactModal">Precios y promociones</button>
                             
                         </div>
                         
@@ -254,7 +254,7 @@
                         
                         <p>Diseño, aplicaciones webs y programación de <br> alto nivel para tu empresa, con la mejor expericencia de usuario</p><br>
                         
-                        <button class="btn btn-clear btn-sitios">Precios y promociones</button>
+                        <button class="btn btn-clear btn-sitios" data-toggle="modal" data-target="#contactModal">Precios y promociones</button>
                         
                     </div>
                     
@@ -293,7 +293,7 @@
                 
                 <p>Diseño de marca, tarjetas de presentacion y <br> más, nos adaptamos a tu presupuesto, empieza <br> hoy día, cotiza con nosotros.</p><br>
                 
-                <button class="btn btn-clear btn-identidad">Precios y promociones</button>
+                <button class="btn btn-clear btn-identidad" data-toggle="modal" data-target="#contactModal">Precios y promociones</button>
                 
             </div>
                 
@@ -317,7 +317,7 @@
                         
                     <h3>Cotiza con nosotros de manera<br>diferente y directa</h3><br>
                     
-                    <button class="btn btn-clear btn-cotiza">COTIZAR AHORA</button>
+                    <button class="btn btn-clear btn-cotiza" data-toggle="modal" data-target="#contactModal">COTIZAR AHORA</button>
                     
                 </div>
                 
@@ -330,4 +330,5 @@
 </section>
 
 <div class="clearfix"></div>
+
 <?php get_template_part('footer') ?>

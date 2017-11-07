@@ -68,7 +68,10 @@
     </footer>
     
     <!--modals-->
-    <?php get_template_part('modals'); ?>
+    <?php //get_template_part('modals'); ?>
+    
+    <!--contact Modal-->
+    <?php get_template_part('contacto'); ?>
       
     </body>
     
